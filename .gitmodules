@@ -1,0 +1,12 @@
+[submodule "dns"]
+	path = dns
+	url = git@github.com:Kolyunya/afdns.git
+[submodule "afdns"]
+	path = afdns
+	url = git@github.com:Kolyunya/afdns.git
+[submodule "afprx"]
+	path = afprx
+	url = git@github.com:Kolyunya/afprx.git
+[submodule "ezvpn"]
+	path = ezvpn
+	url = git@github.com:Kolyunya/ezvpn.git

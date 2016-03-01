@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Start all components
+afdns-start
+afprx-start
+ezvpn-start

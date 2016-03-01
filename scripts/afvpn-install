@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Install all components
+afdns-install
+afprx-install
+ezvpn-install
