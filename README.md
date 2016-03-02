@@ -7,3 +7,6 @@ A docker [container](https://hub.docker.com/r/kolyunya/afvpn/) with a VPN server
 Just start the container and you are good to go. No configuration is required.
 
 `docker run --privileged --detach --tty --net=host --restart=always --name=afvpn kolyunya/afvpn`
+
+## Configuration
+Each of the three components ([AFDNS](https://github.com/Kolyunya/afdns), [AFPRX](https://github.com/Kolyunya/afprx), [EZVPN](https://github.com/Kolyunya/ezvpn)) documentation contains detailed description of available configuration options.
